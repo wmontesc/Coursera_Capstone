@@ -1,6 +1,10 @@
 # Coursera_Capstone
 
 ## Project 1
+Files: 
+- Coursera_Capstone.ipynb
+- python_code.py
+
 In this project it was requested to create a Jupyter Notebook using any platform that I were comfortable with to do the following:
 
 1. Write some markdown to explain that this notebook will be mainly used for the capstone project
@@ -20,6 +24,7 @@ Scraping data, Creating dataframe, Analizing data, Clustering
 <font size = 2>
 
 ### 1. Build a dataframe to use in a clustering project with Foursquare location data
+File: 1_WM_Segmenting and Clustering Neighborh.ipynb
 
 1a. <a href="#item1">Scrap Wikipedia</a>
 
@@ -29,11 +34,13 @@ Scraping data, Creating dataframe, Analizing data, Clustering
 
 1d. <a href="#item4">Clean the previous dataframe</a>
 
-### 2. Assign the latitude and longitude coordinates for each Neighbourhood in the previous dataframe 
+### 2. Assign latitude and longitude coordinates for each Neighbourhood in the previous dataframe
+File: 2_WM_Segmenting and Clustering Neighborh.ipynb
 
 2a. <a href="#item4">Complete the dataframe: get the latitude and the longitude coordinates for each Neighbourhood</a>  
 
-### 3. Explore and cluster the Neighbourhoods in Toronto 
+### 3. Explore and cluster the Neighbourhoods in Toronto
+File: 3_WM_Segmenting and Clustering Neighborh.ipynb
 
 3a. <a href="#item1">Create a map of Toronto with Neighbourhoods superimposed on top</a>
 
