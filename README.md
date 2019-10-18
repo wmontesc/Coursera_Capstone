@@ -50,5 +50,10 @@ File: 3_WM_Segmenting and Clustering Neighborh.ipynb
 
 3d. <a href="#item4">Cluster the Neighbourhoods of Downtown Toronto</a>
 
+
+#### Resume Project 2 (The whole project): 
+
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/992a3afa-cf74-44b1-bb04-252b70e300b9/view?access_token=15a07035158e59beabcee9072f5ad6147a5f515996b5f3e6289d89edee045f33
+
 </font>
 </div>
